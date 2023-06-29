@@ -1,4 +1,4 @@
-﻿namespace SedgewickWayne.Extensions
+﻿namespace SedgewickWayne.Exercises._1_1_9.Extensions
 {
     internal static class EnumerableExtensions
     {

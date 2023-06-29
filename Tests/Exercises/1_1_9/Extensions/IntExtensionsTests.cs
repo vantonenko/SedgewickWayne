@@ -1,6 +1,6 @@
-using SedgewickWayne.Extensions;
+using SedgewickWayne.Exercises._1_1_9.Extensions;
 
-namespace SedgewickWayne.Tests.Extensions
+namespace SedgewickWayne.Tests.Exercises._1_1_9.Extensions
 {
     public class IntExtensionsTests
     {
