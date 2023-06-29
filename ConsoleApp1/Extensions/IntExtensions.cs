@@ -1,4 +1,4 @@
-﻿namespace ConsoleApp1.Extensions
+﻿namespace SedgewickWayne.Extensions
 {
     public static class IntExtensions
     {

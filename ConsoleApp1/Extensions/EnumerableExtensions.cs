@@ -1,4 +1,4 @@
-﻿namespace ConsoleApp1.Extensions
+﻿namespace SedgewickWayne.Extensions
 {
     internal static class EnumerableExtensions
     {

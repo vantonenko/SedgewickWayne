@@ -1,6 +1,6 @@
-using ConsoleApp1.Extensions;
+using SedgewickWayne.Extensions;
 
-namespace ConsoleApp1.Tests.Extensions
+namespace SedgewickWayne.Tests.Extensions
 {
     public class IntExtensionsTests
     {

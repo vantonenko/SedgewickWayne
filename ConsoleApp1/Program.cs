@@ -1,4 +1,4 @@
-﻿using ConsoleApp1.Extensions;
+﻿using SedgewickWayne.Extensions;
 
 int input = 150;
 
